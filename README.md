@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @code-with-joker</h1>
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Python and React and django**
+- 🌱 I’m currently learning **Database**
 
 - 👯 I’m looking to collaborate on **Web development and Hacking**
 
